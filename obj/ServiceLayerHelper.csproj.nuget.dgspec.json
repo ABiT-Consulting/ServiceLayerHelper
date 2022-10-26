@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mimran\\Documents\\code\\testsl\\ServiceLayerHelper.csproj": {}
+    "C:\\Users\\mimran\\Documents\\code\\ServiceLayerHelper\\ServiceLayerHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mimran\\Documents\\code\\testsl\\ServiceLayerHelper.csproj": {
+    "C:\\Users\\mimran\\Documents\\code\\ServiceLayerHelper\\ServiceLayerHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mimran\\Documents\\code\\testsl\\ServiceLayerHelper.csproj",
+        "projectUniqueName": "C:\\Users\\mimran\\Documents\\code\\ServiceLayerHelper\\ServiceLayerHelper.csproj",
         "projectName": "ServiceLayerHelper",
-        "projectPath": "C:\\Users\\mimran\\Documents\\code\\testsl\\ServiceLayerHelper.csproj",
+        "projectPath": "C:\\Users\\mimran\\Documents\\code\\ServiceLayerHelper\\ServiceLayerHelper.csproj",
         "packagesPath": "C:\\Users\\mimran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mimran\\Documents\\code\\testsl\\obj\\",
+        "outputPath": "C:\\Users\\mimran\\Documents\\code\\ServiceLayerHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

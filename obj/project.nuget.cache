@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UEMH5ZT4YuDfaBwKIa/K4TIxlYoCZFsfYWFAmdnz9A42IEhvbSEYiQlABohMSuaHQQBN1mtkQrt4gEPO8iGkYw==",
+  "dgSpecHash": "6v6gQjRZ8st93d4n1uJKCGvk0b1QsfeGtn/PbWJcTr5FTNW4ip1OIRr9lpd9Kxm8Dj8ZvI4m7hTBESFjQ+xIwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mimran\\Documents\\code\\testsl\\ServiceLayerHelper.csproj",
+  "projectFilePath": "C:\\Users\\mimran\\Documents\\code\\ServiceLayerHelper\\ServiceLayerHelper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mimran\\.nuget\\packages\\b1slayer\\1.2.0\\b1slayer.1.2.0.nupkg.sha512",
     "C:\\Users\\mimran\\.nuget\\packages\\flurl\\3.0.4\\flurl.3.0.4.nupkg.sha512",
