@@ -1,0 +1,12 @@
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\bin\Debug\net6.0\ServiceLayerHelper.deps.json
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\bin\Debug\net6.0\ServiceLayerHelper.dll
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\bin\Debug\net6.0\ServiceLayerHelper.pdb
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.csproj.AssemblyReference.cache
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.AssemblyInfoInputs.cache
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.AssemblyInfo.cs
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.csproj.CoreCompileInputs.cache
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.dll
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\refint\ServiceLayerHelper.dll
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ServiceLayerHelper.pdb
+C:\Users\mimran\Documents\code\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net6.0\ref\ServiceLayerHelper.dll
