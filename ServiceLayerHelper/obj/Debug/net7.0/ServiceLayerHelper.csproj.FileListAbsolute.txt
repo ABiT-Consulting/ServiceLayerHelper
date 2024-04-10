@@ -1,0 +1,13 @@
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\bin\Debug\net7.0\ServiceLayerHelper.deps.json
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\bin\Debug\net7.0\ServiceLayerHelper.dll
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\bin\Debug\net7.0\ServiceLayerHelper.pdb
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.csproj.AssemblyReference.cache
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.AssemblyInfoInputs.cache
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.AssemblyInfo.cs
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.csproj.CoreCompileInputs.cache
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.sourcelink.json
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.dll
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\refint\ServiceLayerHelper.dll
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ServiceLayerHelper.pdb
+C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Debug\net7.0\ref\ServiceLayerHelper.dll
