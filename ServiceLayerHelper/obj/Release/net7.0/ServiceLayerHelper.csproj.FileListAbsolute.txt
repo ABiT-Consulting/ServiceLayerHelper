@@ -11,3 +11,16 @@ C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\Servic
 C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\refint\ServiceLayerHelper.dll
 C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.pdb
 C:\abit\SBO_Desk\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ref\ServiceLayerHelper.dll
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\bin\Release\net7.0\ServiceLayerHelper.deps.json
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\bin\Release\net7.0\ServiceLayerHelper.dll
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\bin\Release\net7.0\ServiceLayerHelper.pdb
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.csproj.AssemblyReference.cache
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.AssemblyInfoInputs.cache
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.AssemblyInfo.cs
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.csproj.CoreCompileInputs.cache
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.sourcelink.json
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.dll
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\refint\ServiceLayerHelper.dll
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ServiceLayerHelper.pdb
+D:\Code\ABiT\ServiceLayerHelper\ServiceLayerHelper\obj\Release\net7.0\ref\ServiceLayerHelper.dll
